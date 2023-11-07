@@ -32,6 +32,6 @@
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/guhFernandes/guhFernandes/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/guhFernandes/guhFernandes/blob/output/github-contribution-grid-snake.svg)
   
