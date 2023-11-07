@@ -28,7 +28,7 @@
     <a href = "https://www.linkedin.com/in/gustavo-henrique-fernandes-da-silva-08a7a2263/">
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">
     </a>
-    <a href = "https://www.instagram.com/guh_paulista/">
+    <a href = "https://www.instagram.com/guhpaulista/">
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
     </a>
 </div>
